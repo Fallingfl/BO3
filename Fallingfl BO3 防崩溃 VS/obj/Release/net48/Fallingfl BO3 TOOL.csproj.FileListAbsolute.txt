@@ -1,0 +1,24 @@
+C:\Users\29644\Desktop\t7\bin\Release\net48\Fallingfl BO3 TOOL.exe.config
+C:\Users\29644\Desktop\t7\bin\Release\net48\Fallingfl BO3 TOOL.exe
+C:\Users\29644\Desktop\t7\bin\Release\net48\Fallingfl BO3 TOOL.pdb
+C:\Users\29644\Desktop\t7\bin\Release\net48\External.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Memory.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Reflection.Metadata.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Collections.Immutable.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Numerics.Vectors.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Buffers.dll
+C:\Users\29644\Desktop\t7\bin\Release\net48\External.dll.config
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Reflection.Metadata.xml
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Collections.Immutable.xml
+C:\Users\29644\Desktop\t7\bin\Release\net48\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.csproj.AssemblyReference.cache
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.csproj.CoreCompileInputs.cache
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.csproj.CopyComplete
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.exe
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.pdb
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl_BO3_TOOL.Refract.UI.Core.Controls.CBorderedForm.resources
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl_BO3_TOOL.Refract.UI.Core.Controls.CTitleBar.resources
+C:\Users\29644\Desktop\t7\obj\Release\net48\Fallingfl BO3 TOOL.csproj.GenerateResource.cache
